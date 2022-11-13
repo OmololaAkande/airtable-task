@@ -1,0 +1,26 @@
+body{
+  border: 1px solid rgb(162, 156, 156);
+   padding :20px; 
+   background-color:white; 
+   width:300px;
+   border-radius: 20px;
+}
+
+button{
+  background-color: white;
+  border:1px solid black;
+  padding-inline:30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+}
+
+span{
+  font-weight: bold;
+}
+
+.feat{
+  font-weight:lighter;
+  font-size:12px;
+  color:rgb(112, 108, 108);
+}
